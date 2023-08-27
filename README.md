@@ -28,6 +28,8 @@ Part 7 is dedicated to the hyrid model without any resampling technique.
 ## Data
 The main dataset that was utilised for this project was the loan dataset retrieved from https://www.kaggle.com/code/ovaizali/loan-defaulters-pycaret-automl.
 
+Most importantly, the main data set is too large to include in this folder, so it is required to download the dataset from the link above.
+
 In addition, other datasets were created for the macroeconomic indicators and then linked to the main dataset based on issue date, census region, or US state. 
 The macroeconomic data was retrieved from several reliable governmental sources.
 
