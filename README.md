@@ -28,7 +28,8 @@ Part 7 is dedicated to the hyrid model without any resampling technique.
 ## Data
 The main dataset that was utilised for this project was the loan dataset retrieved from https://www.kaggle.com/code/ovaizali/loan-defaulters-pycaret-automl.
 
-In addition, other datasets were created for the macroeconomic indicators, this data was retrieved from several reliable governmental sources.
+In addition, other datasets were created for the macroeconomic indicators and then linked to the main dataset based on issue date, census region, or US state. 
+The macroeconomic data was retrieved from several reliable governmental sources.
 
 ## Tools & Libraries
 The project was entire developed with Visual Studio Code using Python 3.9.12.
