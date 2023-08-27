@@ -58,6 +58,7 @@ ggplot: A plotting system for Python based on R's ggplot2 and the Grammar of Gra
 
 Adam: An optimization algorithm that can be used instead of the classical stochastic gradient descent procedure to update network weights iterative based on training data.
 
+## Final Note
 Lastly, when running these notebooks, please be aware that you might encounter some stops in the code.
 This either indicates that the following code is very time consuming or that you have reached the end of a certain section.
 
