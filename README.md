@@ -12,11 +12,17 @@ Furthermore, random under-sampling techniques (RUS) were utilized to address dat
 The notebooks are divided into 7 parts:
 
 Part 1 is dedicated to exploratory data analysis and preliminary hypothesis testing.
+
 Part 2 is dedicated to the logistic regression using the random under-sampling technique.
+
 Part 3 is dedicated to the logistic regression without any resampling technique.
+
 Part 4 is dedicated to the neural network using the random under-sampling technique.
+
 Part 5 is dedicated to the neural network without any resampling technique.
+
 Part 6 is dedicated to the hybrid model using the random under-sampling technique.
+
 Part 7 is dedicated to the hyrid model without any resampling technique.
 
 ## Data
