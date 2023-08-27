@@ -30,16 +30,16 @@ The project was entire developed with Visual Studio Code using Python 3.9.12.
 In order to run the notebooks smoothly, it is essential to install the following libraries:
 
 TensorFlow (tf)	: An open-source machine learning framework.
-Keras		: A high-level neural networks API, written in Python and capable of running on top of TensorFlow.
-scikit-learn	: A machine learning library for Python. It features various algorithms like support vector machine, random forests, and k-neighbours. It also supports Python numerical and 			scientific libraries like NumPy and SciPy.
-NumPy (np)	: A library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical 			functions to operate on these arrays.
-pandas (pd)	: An open-source data analysis and manipulation tool.
-			matplotlib.pyplot (plt): A plotting library for the Python programming language and its numerical mathematics extension NumPy.
+Keras: A high-level neural networks API, written in Python and capable of running on top of TensorFlow.
+scikit-learn: A machine learning library for Python. It features various algorithms like support vector machine, random forests, and k-neighbours. It also supports Python numerical and scientific libraries like NumPy and SciPy.
+NumPy (np): A library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+pandas (pd): An open-source data analysis and manipulation tool. 
+matplotlib.pyplot (plt): A plotting library for the Python programming language and its numerical mathematics extension NumPy.
 seaborn (sns)	: A Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
-shap		: A library to explain the output of machine learning models.
-kerastuner	: A library for hyperparameter tuning for Keras models.
-ggplot		: A plotting system for Python based on R's ggplot2 and the Grammar of Graphics.
-Adam		: An optimization algorithm that can be used instead of the classical stochastic gradient descent procedure to update network weights iterative based on training data.
+shap: A library to explain the output of machine learning models.
+kerastuner: A library for hyperparameter tuning for Keras models.
+ggplot: A plotting system for Python based on R's ggplot2 and the Grammar of Graphics.
+Adam: An optimization algorithm that can be used instead of the classical stochastic gradient descent procedure to update network weights iterative based on training data.
 
 
 
